@@ -7,7 +7,7 @@ Passionate about building scalable applications with clean architecture and mode
 ---
 
 <p align="center">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=6E86L54RMLH44">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=6E86L54RMLH44" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=paypal&logoColor=white&labelColor=003087" alt="Donate with PayPal" />
   </a>
 </p>
@@ -94,7 +94,7 @@ Lead capture and management system with embeddable widgets for multiple websites
 If my open source projects have helped you, consider buying me a coffee!
 
 <p align="center">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=6E86L54RMLH44">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=6E86L54RMLH44" target="_blank">
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
   </a>
 </p>
