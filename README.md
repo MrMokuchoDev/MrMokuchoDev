@@ -6,6 +6,18 @@ Passionate about building scalable applications with clean architecture and mode
 
 ---
 
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=6E86L54RMLH44">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=paypal&logoColor=white&labelColor=003087" alt="Donate with PayPal" />
+  </a>
+</p>
+
+<p align="center">
+  <i>If you find my projects useful, consider supporting my work!</i>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -77,6 +89,18 @@ Lead capture and management system with embeddable widgets for multiple websites
 
 ---
 
+## 💖 Support My Work
+
+If my open source projects have helped you, consider buying me a coffee!
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=6E86L54RMLH44">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+  </a>
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrMokuchoDev)
@@ -86,4 +110,3 @@ Lead capture and management system with embeddable widgets for multiple websites
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrMokuchoDev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-
